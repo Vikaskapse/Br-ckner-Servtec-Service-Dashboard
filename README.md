@@ -30,3 +30,8 @@ It does not represent real Brückner Servtec data.
 ## 👤 Author
 **Vikas Kapse** – Data Analyst  
 [LinkedIn](https://linkedin.com/in/vikas-kapse-/) | kapsevikas001@gmail.com
+
+
+
+
+![Dashboard Preview](dashboard_screenshot.png)
